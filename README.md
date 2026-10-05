@@ -27,7 +27,7 @@
 
 ### How I work
 
-Figma → design tokens → components → screens → deployed link. Each frontend project here keeps its tokens in code with the same names as the Figma variables, so design and build never drift apart. I build with Claude Code as a pair programmer and review everything it writes.
+Figma → design tokens → components → screens → deployed link. Each frontend project here keeps its tokens in code with the same names as the Figma variables, so design and build never drift apart. I build with Claude Code as a pair programmer and review everything it writes. At Infosec Ventures I've worked with [Superdev](https://github.com/boparaiamrit/superdev), a multi-agent Claude Code plugin built by my colleague [Amritpal Singh](https://github.com/boparaiamrit). Its agents handle PRD analysis, design-to-code, security review, QA and pre-ship audits in parallel, with a pixel-diff gate that keeps the build true to the design.
 
 ### Stack
 
